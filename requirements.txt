@@ -1,0 +1,14 @@
+# Core dependencies
+langgraph>=0.2.70
+langchain-core>=0.3.34
+langchain-community>=0.3.16
+langchain-openai>=0.0.5
+typing-extensions>=4.12.2
+
+# Web search APIs
+tavily-python>=0.5.0
+requests>=2.32.3
+
+# Development dependencies
+python-dotenv>=1.0.1
+langsmith>=0.3.6
